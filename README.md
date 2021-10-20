@@ -1,6 +1,6 @@
 ### Hi, I'm Chris 👋
 ### I love building things with HTML, CSS, JavaScript and learning all the great tools that make these languages even more powerful and streamlined.
-
+### My most recent stack has been PostgreSQL, Express, React, and Node.
 #### I'm currently exploring React Hooks, TypeScript, Kintone, and CMS's such as SquareSpace / Webflow / WordPress.
 #### CSS only solutions and animations are also a fascination of mine.
 #### I love learning more about the easy to hate, but powerful reach of CSS.
