@@ -1,8 +1,9 @@
 ### Hi, I'm Chris 👋
-### I'm fervently ingesting all things HTML, CSS, JavaScript and all things Web Development and having a great time doing it! Forged from years of adventuring through the realms of programming, and focused during fully engrossed experience at Learning Fuze coding bootcamp, I relish the opportunity to contribute and collaborate in expressing our world in digital landscapes!
+### I love building things with HTML, CSS, JavaScript and learning all the great tools that make these languages even more powerful and streamlined.
 
 #### I'm currently exploring React Hooks, TypeScript, Kintone, and CMS's such as SquareSpace / Webflow / WordPress.
-#### CSS only solutions and animations are also a fascination of mine and I love learning more about the easy to hate, but powerful reach of CSS.
+#### CSS only solutions and animations are also a fascination of mine.
+#### I love learning more about the easy to hate, but powerful reach of CSS.
 
 
 <!-- **christopher-ward/christopher-ward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
